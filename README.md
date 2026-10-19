@@ -126,3 +126,13 @@ contoh. Anda juga dapat mengembalikannya kapan saja lewat tombol
 - TypeScript 5 (strict)
 - Vite 5
 - Vitest + Testing Library (+ jsdom)
+
+## Screenshot Aplikasi
+
+### 1. Tampilan Dashboard
+
+![Dashboard1](srenshots1.png)
+
+### 2. Tampilan Gantt Chart
+
+![Tampilan2](screnshots2.png)
