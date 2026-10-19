@@ -129,10 +129,10 @@ contoh. Anda juga dapat mengembalikannya kapan saja lewat tombol
 
 ## Screenshot Aplikasi
 
-### 1. Tampilan Dashboard
+### 1. Tampilan1
 
 ![Dashboard1](srenshots1.png)
 
-### 2. Tampilan Gantt Chart
+### 2. Tampilan2
 
 ![Tampilan2](screnshots2.png)
