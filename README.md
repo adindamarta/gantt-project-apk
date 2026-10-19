@@ -131,7 +131,7 @@ contoh. Anda juga dapat mengembalikannya kapan saja lewat tombol
 
 ### 1. Tampilan1
 
-![Dashboard1](srenshots1.png)
+![Dashboard1](screnshots1.png)
 
 ### 2. Tampilan2
 
