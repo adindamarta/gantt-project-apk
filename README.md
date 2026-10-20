@@ -131,8 +131,8 @@ contoh. Anda juga dapat mengembalikannya kapan saja lewat tombol
 
 ### 1. Tampilan1
 
-![Dashboard1](screnshots1.png)
+![Dashboard1](screenshots/screnshots1.png)
 
 ### 2. Tampilan2
 
-![Tampilan2](screnshots2.png)
+![Tampilan2](screenshots/screnshots2.png)
